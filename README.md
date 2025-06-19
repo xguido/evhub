@@ -40,7 +40,7 @@ Bot otomatis berbasis Python untuk:
 1. Clone repositori ini:
 
 ```bash
-git clone https://github.com/namamu/evhub-airdrop-bot.git
+git clone https://github.com/xguido/evhub.git
 cd evhub
 ````
 
