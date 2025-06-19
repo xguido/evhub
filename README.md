@@ -94,7 +94,7 @@ Secara default, delay antar wallet adalah **10 detik**.
 Kamu bisa ubah di file `evhub.py`, bagian ini:
 
 ```python
-time.sleep(10)  # ← ubah jadi 5 jika ingin lebih cepat
+time.sleep(5)  # ← ubah jadi 3 jika ingin lebih cepat
 ```
 
 ---
