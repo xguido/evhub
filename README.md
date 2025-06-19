@@ -41,7 +41,7 @@ Bot otomatis berbasis Python untuk:
 
 ```bash
 git clone https://github.com/namamu/evhub-airdrop-bot.git
-cd evhub-airdrop-bot
+cd evhub
 ````
 
 2. Install dependencies:
